@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "olga_vaneeva",
+	"description": "my_excercises_for_backend_and_api_course",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
